@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33318.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todoapp", "todoapp.csproj", "{DC338B24-36E0-459F-AFFC-863684F0EA10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC338B24-36E0-459F-AFFC-863684F0EA10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC338B24-36E0-459F-AFFC-863684F0EA10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC338B24-36E0-459F-AFFC-863684F0EA10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC338B24-36E0-459F-AFFC-863684F0EA10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F6947B6-84AB-49DD-837A-4E7B5192F518}
+	EndGlobalSection
+EndGlobal
